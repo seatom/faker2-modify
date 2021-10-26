@@ -52,9 +52,9 @@ const BASE_URL = 'https://m.jingxi.com/cubeactive/steprewardv3'
   //}
   //if (res && res.activeId) $.activeId = res.activeId;
   $.authorMyShareIds = [
-"Zldf9g3XW0rwTL1JL0Tr2ysEpKmbGFh-AxTrZWoPtkkcyNC5eQqZl7KVK6Di_Uac",
-"Zldf9g3XW0rwTL1JL0Tr24Hh3lYS989FZLBNDR7vHkc",
-"Zldf9g3XW0rwTL1JL0Tr2y91qBNcLL-SCRfR8E6ZXS4"
+"qENQ1h_dpbfWkTFy9ZHlHCsEpKmbGFh-AxTrZWoPtkkcyNC5eQqZl7KVK6Di_Uac",
+"qENQ1h_dpbfWkTFy9ZHlHIHh3lYS989FZLBNDR7vHkc",
+"qENQ1h_dpbfWkTFy9ZHlHC91qBNcLL-SCRfR8E6ZXS4"
   ];
   //开启红包,获取互助码
   for (let i = 0; i < cookiesArr.length; i++) {
